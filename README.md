@@ -1,11 +1,10 @@
 
 # TimCoRetailManager
-TimCo Retail Manager Course by IAmTimCorey in [Youtube](https://www.youtube.com/playlist?list=PLLWMQd6PeGY0bEMxObA6dtYXuJOGfxSPx) 
 
 The project is developed using .Net framework and later updated to .Net core 3.1., Automapper, WPF, Azure DevOps, CI/CD.
 
 
-## Course Structure
+## Project Structure
 
 ### Phase 1
  1. Creating a WebAPI with Authentication
