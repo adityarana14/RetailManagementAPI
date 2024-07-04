@@ -3,6 +3,26 @@
 
 The project is developed using .Net framework and later updated to .Net core 3.1., Automapper, WPF, Azure DevOps, CI/CD.
 
+## Overview
+The TimCo Retail Manager API is a comprehensive solution designed to manage retail operations efficiently. This API provides various functionalities including inventory management, order processing, and customer relationship management.
+
+## Features
+1. Inventory Management: Add, update, delete, and view inventory items.
+2. Order Processing: Create, update, and track customer orders.
+3. Customer Management: Manage customer information and interactions.
+4. Reporting: Generate reports on sales, inventory levels, and customer activities.
+
+## Technologies Used
+1. Backend: C#, .NET Framework, ASP.NET
+2. Database: SQL Server, Entity Framework
+3. Architecture: MVC, RESTful API
+4. Frontend: Blazor
+
+## Getting Started
+### Prerequisites
+1. .NET Framework 4.x
+2. SQL Server
+3. Visual Studio 2019 or later
 
 ## Project Structure
 
